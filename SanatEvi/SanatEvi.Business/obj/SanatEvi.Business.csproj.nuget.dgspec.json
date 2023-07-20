@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi\\SanatEvi.Business\\SanatEvi.Business.csproj": {}
+    "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Business\\SanatEvi.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi\\SanatEvi.Business\\SanatEvi.Business.csproj": {
+    "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Business\\SanatEvi.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi\\SanatEvi.Business\\SanatEvi.Business.csproj",
+        "projectUniqueName": "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Business\\SanatEvi.Business.csproj",
         "projectName": "SanatEvi.Business",
-        "projectPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi\\SanatEvi.Business\\SanatEvi.Business.csproj",
-        "packagesPath": "C:\\Users\\hilal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi\\SanatEvi.Business\\obj\\",
+        "projectPath": "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Business\\SanatEvi.Business.csproj",
+        "packagesPath": "C:\\Users\\SABAH\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hilal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SABAH\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi\\SanatEvi.Data\\SanatEvi.Data.csproj": {
-                "projectPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi\\SanatEvi.Data\\SanatEvi.Data.csproj"
+              "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Data\\SanatEvi.Data.csproj": {
+                "projectPath": "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Data\\SanatEvi.Data.csproj"
               }
             }
           }
@@ -63,24 +63,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi\\SanatEvi.Data\\SanatEvi.Data.csproj": {
+    "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Data\\SanatEvi.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi\\SanatEvi.Data\\SanatEvi.Data.csproj",
+        "projectUniqueName": "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Data\\SanatEvi.Data.csproj",
         "projectName": "SanatEvi.Data",
-        "projectPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi\\SanatEvi.Data\\SanatEvi.Data.csproj",
-        "packagesPath": "C:\\Users\\hilal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi\\SanatEvi.Data\\obj\\",
+        "projectPath": "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Data\\SanatEvi.Data.csproj",
+        "packagesPath": "C:\\Users\\SABAH\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hilal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SABAH\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -95,8 +95,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj": {
-                "projectPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj"
+              "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj": {
+                "projectPath": "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj"
               }
             }
           }
@@ -138,24 +138,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj": {
+    "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj",
+        "projectUniqueName": "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj",
         "projectName": "SanatEvi.Entity",
-        "projectPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj",
-        "packagesPath": "C:\\Users\\hilal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi\\SanatEvi.Entity\\obj\\",
+        "projectPath": "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj",
+        "packagesPath": "C:\\Users\\SABAH\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hilal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SABAH\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -203,7 +203,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

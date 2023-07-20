@@ -25,12 +25,12 @@ namespace SanatEvi.Data.Concrete.EfCore.Configs
             builder.HasOne(x => x.Category).WithMany(x => x.Courses).HasForeignKey(x => x.CategoryId).OnDelete(DeleteBehavior.NoAction);
 
             builder.HasData(
-                new Course 
-                { 
+                new Course
+                {
                     Id = 1,
                     Title = "Temel Resim Kursu",
                     Description = "Bu tür kurslar, resim yapmaya yeni başlayanlar için temel resim becerilerini öğretmeyi amaçlar. Renk teorisi, kompozisyon, perspektif, ışık-gölge gibi temel resim prensipleri ve teknikleri bu kurslar kapsamında öğretilebilir.",
-                    Url ="temel-resim-kurslari",
+                    Url = "temel-resim-kurslari",
                     ImageUrl = "temel-resim-kurslari.jpg",
                     StartingDate = new DateTime(2023, 8, 7),
                     EndDate = new DateTime(2023, 9, 18),
@@ -39,21 +39,21 @@ namespace SanatEvi.Data.Concrete.EfCore.Configs
                     CurrentPerson = 25,
                     CategoryId = 1,
                 },
-                new Course 
+                new Course
                 {
                     Id = 2,
                     Title = "Yağlı Boya Kursu",
-                    Description= "Yağlı boya resim tekniğine odaklanan kurslardır. Yağlı boya malzemeleri, fırça teknikleri, renk karışımları ve tablo üzerinde çalışma gibi konular bu kurslar kapsamında ele alınır.",
+                    Description = "Yağlı boya resim tekniğine odaklanan kurslardır. Yağlı boya malzemeleri, fırça teknikleri, renk karışımları ve tablo üzerinde çalışma gibi konular bu kurslar kapsamında ele alınır.",
                     Url = "yagli-boya-kursu",
                     ImageUrl = "yagli-boya-kursu.jpg",
-                    StartingDate = new DateTime(2023, 7, 625),
+                    StartingDate = new DateTime(2023, 7, 6),
                     EndDate = new DateTime(2023, 9, 1),
                     Classtime = "80 saat",
                     Price = 1200,
                     CurrentPerson = 25,
                     CategoryId = 1,
                 },
-                new Course 
+                new Course
                 {
                     Id = 3,
                     Title = "Karakalem Kursu",
@@ -67,9 +67,9 @@ namespace SanatEvi.Data.Concrete.EfCore.Configs
                     CurrentPerson = 25,
                     CategoryId = 1,
                 },
-                new Course 
+                new Course
                 {
-                    Id= 4,
+                    Id = 4,
                     Title = "Portre Resim Kursu",
                     Description = "Portre resim yapmayı öğretmeyi hedefleyen kurslardır. İnsan yüzünün anatomisi, yüz ifadeleri, ışık-gölge ilişkileri ve detaylandırma gibi konular bu kurslar kapsamında ele alınır.",
                     Url = "portre-resim-kursu",
@@ -81,9 +81,9 @@ namespace SanatEvi.Data.Concrete.EfCore.Configs
                     CurrentPerson = 25,
                     CategoryId = 1,
                 },
-                new Course 
+                new Course
                 {
-                    Id= 5,
+                    Id = 5,
                     Title = "Akrilik Boya Kursu",
                     Description = "Akrilik boya kullanarak resim yapmayı öğretmeyi hedefleyen kurslardır. Akrilik boya malzemeleri, fırça teknikleri, renk geçişleri ve katmanlar gibi konular bu kurslar kapsamında ele alınır.",
                     Url = "akrilik-resim-kursu",
@@ -95,23 +95,23 @@ namespace SanatEvi.Data.Concrete.EfCore.Configs
                     CurrentPerson = 25,
                     CategoryId = 1,
                 },
-                new Course 
-                { 
-                    Id= 6,
+                new Course
+                {
+                    Id = 6,
                     Title = "Temel Seramik Kursu",
-                    Description= "Bu kurs, seramik malzemeleri, el şekillendirme teknikleri, kilin hazırlanması, merkezleme ve şekil verme gibi temel becerileri öğretir. Katılımcılar, çeşitli seramik formları oluşturma ve kilin pişirme sürecini deneyimleme fırsatı bulurlar.",
+                    Description = "Bu kurs, seramik malzemeleri, el şekillendirme teknikleri, kilin hazırlanması, merkezleme ve şekil verme gibi temel becerileri öğretir. Katılımcılar, çeşitli seramik formları oluşturma ve kilin pişirme sürecini deneyimleme fırsatı bulurlar.",
                     Url = "temel-seramik-kursu",
                     ImageUrl = "temel-seramik-kursu.jpg",
                     StartingDate = new DateTime(2023, 9, 6),
-                    EndDate= new DateTime(2023, 10, 6),
+                    EndDate = new DateTime(2023, 10, 6),
                     Classtime = "100 saat",
                     Price = 1500,
                     CurrentPerson = 20,
                     CategoryId = 2,
                 },
-                new Course 
+                new Course
                 {
-                    Id= 7,
+                    Id = 7,
                     Title = "Çarkta Çömlekçilik Kursu",
                     Description = "Bu kurs, çömlekçilik tekerleği üzerinde çalışmayı öğretir. Katılımcılar, çömlekçilik tekerleği kullanarak çeşitli kaplar, vazolar veya tabaklar gibi formlar oluşturma becerilerini geliştirir. Ayrıca, eserlerin sonraki aşamaları olan kurutma, glazelenme ve pişirme süreçlerini de öğrenirler.",
                     Url = "carkta-comlekcilik-kursu",
@@ -123,9 +123,9 @@ namespace SanatEvi.Data.Concrete.EfCore.Configs
                     CurrentPerson = 20,
                     CategoryId = 2,
                 },
-                new Course 
+                new Course
                 {
-                    Id= 8,
+                    Id = 8,
                     Title = "Dekoratif Seramik Kursu",
                     Description = "Bu kurs, seramik parçaların dekoratif tekniklerle süslenmesini öğretir. Katılımcılar, boyama, sırlama, transfer baskı, kabartma ve serigrafi gibi farklı dekoratif yöntemleri kullanarak seramik eserlerini kişiselleştirme becerisini kazanırlar.",
                     Url = "dekoratif-seramik-kurs",
@@ -137,21 +137,21 @@ namespace SanatEvi.Data.Concrete.EfCore.Configs
                     CurrentPerson = 20,
                     CategoryId = 2,
                 },
-                new Course 
-                { 
-                  Id = 9,
-                  Title = "Temel Mozaik Kursu",
-                  Description = "Bu kurs, mozaik sanatının temellerini öğretir. Mozaik malzemeleri seçme, kesme, düzenleme ve yapıştırma teknikleri gibi konuları kapsar. Katılımcılar, küçük projelerde pratik yaparak mozaik sanatına giriş yaparlar.",
-                  Url = "temel-mozaik-kursu",
-                  ImageUrl = "temel-mozaik-kursu.jpg",
-                  StartingDate = new DateTime(2023, 7, 1),
-                  EndDate = new DateTime(2023, 8, 30),
-                  Classtime = "120 saat",
-                  Price = 1100,
-                  CurrentPerson = 20,
-                  CategoryId = 3,
+                new Course
+                {
+                    Id = 9,
+                    Title = "Temel Mozaik Kursu",
+                    Description = "Bu kurs, mozaik sanatının temellerini öğretir. Mozaik malzemeleri seçme, kesme, düzenleme ve yapıştırma teknikleri gibi konuları kapsar. Katılımcılar, küçük projelerde pratik yaparak mozaik sanatına giriş yaparlar.",
+                    Url = "temel-mozaik-kursu",
+                    ImageUrl = "temel-mozaik-kursu.jpg",
+                    StartingDate = new DateTime(2023, 7, 1),
+                    EndDate = new DateTime(2023, 8, 30),
+                    Classtime = "120 saat",
+                    Price = 1100,
+                    CurrentPerson = 20,
+                    CategoryId = 3,
                 },
-                new Course 
+                new Course
                 {
                     Id = 10,
                     Title = "Mozaik Tablo Kursu",
@@ -161,11 +161,11 @@ namespace SanatEvi.Data.Concrete.EfCore.Configs
                     StartingDate = new DateTime(2023, 8, 4),
                     EndDate = new DateTime(2023, 9, 30),
                     Classtime = "85 saat",
-                    Price= 1350,
+                    Price = 1350,
                     CurrentPerson = 20,
                     CategoryId = 3,
                 },
-                new Course 
+                new Course
                 {
                     Id = 11,
                     Title = "Vitray Cam Kursu",
@@ -179,7 +179,7 @@ namespace SanatEvi.Data.Concrete.EfCore.Configs
                     CurrentPerson = 20,
                     CategoryId = 4,
                 },
-                new Course 
+                new Course
                 {
                     Id = 12,
                     Title = "Cam Kabartma Kursu",
@@ -193,7 +193,7 @@ namespace SanatEvi.Data.Concrete.EfCore.Configs
                     CurrentPerson = 25,
                     CategoryId = 4,
                 },
-                new Course 
+                new Course
                 {
                     Id = 13,
                     Title = "Temel Ahşap İşleme Kursu",
@@ -201,13 +201,13 @@ namespace SanatEvi.Data.Concrete.EfCore.Configs
                     Url = "temel-ahsap-isleme-kursu",
                     ImageUrl = "temel-ahsap-isleme-kursu.jpg",
                     StartingDate = new DateTime(2023, 7, 10),
-                    EndDate = new DateTime(2023, 9, 11 ),
+                    EndDate = new DateTime(2023, 9, 11),
                     Classtime = "130 saat",
-                    Price= 1500,
+                    Price = 1500,
                     CurrentPerson = 25,
                     CategoryId = 5,
                 },
-                new Course 
+                new Course
                 {
                     Id = 14,
                     Title = "Ahşap Oyma Kursu",

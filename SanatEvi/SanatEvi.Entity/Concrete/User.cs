@@ -9,10 +9,6 @@ namespace SanatEvi.Entity.Concrete
 {
     public class User: IdentityUser
     {
-        public User()
-        {
-            Name = FirstName + " " + LastName;
-        }
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Name { get; set; }

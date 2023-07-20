@@ -23,10 +23,10 @@ namespace SanatEvi.Data.Concrete.EfCore.Repositories
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             //modelBuilder.ApplyConfigurationsFromAssembly(typeof(CategoryConfig).Assembly);
-            //modelBuilder.ApplyConfiguration(new CategoryConfig());
-            //modelBuilder.ApplyConfiguration(new CourseConfig());
-            //modelBuilder.ApplyConfiguration(new CourseUserConfig());
-            //modelBuilder.ApplyConfiguration(new UserConfig());
+            modelBuilder.ApplyConfiguration(new CategoryConfig());
+            modelBuilder.ApplyConfiguration(new CourseConfig());
+            modelBuilder.ApplyConfiguration(new CourseUserConfig());
+            modelBuilder.ApplyConfiguration(new UserConfig());
             modelBuilder.ApplyConfiguration(new CourseInstructorConfig());
             base.OnModelCreating(modelBuilder);
         }

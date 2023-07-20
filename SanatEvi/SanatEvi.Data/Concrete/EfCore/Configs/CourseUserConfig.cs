@@ -15,12 +15,12 @@ namespace SanatEvi.Data.Concrete.EfCore.Configs
         {
             builder.HasKey(cu => new { cu.CourseId, cu.UserId });
             builder.HasData(
-                new CourseUser { CourseId = 1, UserId = 1},
-                new CourseUser { CourseId = 1, UserId = 2 },
+                new CourseUser { CourseId = 1, UserId = "1" },
+                new CourseUser { CourseId = 1, UserId = "2" },
 
 
-                new CourseUser { CourseId = 2, UserId = 2 },
-                new CourseUser { CourseId = 3, UserId = 1 });
+                new CourseUser { CourseId = 2, UserId = "1" },
+                new CourseUser { CourseId = 3, UserId = "2" });
         }
     }
 }

@@ -16,7 +16,6 @@ namespace SanatEvi.Data.Concrete.EfCore.Configs
             builder.HasKey(x => x.Id);
             builder.Property(x => x.FirstName).IsRequired().HasMaxLength(50);
             builder.Property(x => x.LastName).IsRequired().HasMaxLength(50);
-            builder.Property(x => x.Name).IsRequired().HasMaxLength(50);
             builder.Property(x => x.Gender).IsRequired();
             builder.Property(x => x.EducationStatus).IsRequired();
             builder.Property(x => x.DateOfBirth).IsRequired();
@@ -26,7 +25,7 @@ namespace SanatEvi.Data.Concrete.EfCore.Configs
             builder.Property(x => x.ImageUrl).IsRequired();
 
             builder.HasData(
-                new User 
+                new User
                 {
                     Id = "1",
                     FirstName = "Mehmet",
@@ -37,7 +36,7 @@ namespace SanatEvi.Data.Concrete.EfCore.Configs
                     Address = "Halide Edip Adıvar Mahallesi Darülaceze Caddesi No:3A BOMONTİ / ŞİŞLİ",
                     City = "İstanbul",
                     Url = "mehmet-derik",
-                    ImageUrl  = "mehmet-derik.jpg",
+                    ImageUrl = "mehmet-derik.jpg",
                 },
                 new User
                 {

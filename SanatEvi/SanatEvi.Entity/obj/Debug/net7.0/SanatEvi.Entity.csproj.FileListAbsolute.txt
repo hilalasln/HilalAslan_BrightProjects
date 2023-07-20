@@ -10,3 +10,15 @@ C:\Users\hilal\Desktop\SanatEvi\SanatEvi\SanatEvi.Entity\obj\Debug\net7.0\SanatE
 C:\Users\hilal\Desktop\SanatEvi\SanatEvi\SanatEvi.Entity\obj\Debug\net7.0\refint\SanatEvi.Entity.dll
 C:\Users\hilal\Desktop\SanatEvi\SanatEvi\SanatEvi.Entity\obj\Debug\net7.0\SanatEvi.Entity.pdb
 C:\Users\hilal\Desktop\SanatEvi\SanatEvi\SanatEvi.Entity\obj\Debug\net7.0\ref\SanatEvi.Entity.dll
+C:\Git\bookstore\SanatEvi\SanatEvi.Entity\bin\Debug\net7.0\SanatEvi.Entity.deps.json
+C:\Git\bookstore\SanatEvi\SanatEvi.Entity\bin\Debug\net7.0\SanatEvi.Entity.dll
+C:\Git\bookstore\SanatEvi\SanatEvi.Entity\bin\Debug\net7.0\SanatEvi.Entity.pdb
+C:\Git\bookstore\SanatEvi\SanatEvi.Entity\obj\Debug\net7.0\SanatEvi.Entity.csproj.AssemblyReference.cache
+C:\Git\bookstore\SanatEvi\SanatEvi.Entity\obj\Debug\net7.0\SanatEvi.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\bookstore\SanatEvi\SanatEvi.Entity\obj\Debug\net7.0\SanatEvi.Entity.AssemblyInfoInputs.cache
+C:\Git\bookstore\SanatEvi\SanatEvi.Entity\obj\Debug\net7.0\SanatEvi.Entity.AssemblyInfo.cs
+C:\Git\bookstore\SanatEvi\SanatEvi.Entity\obj\Debug\net7.0\SanatEvi.Entity.csproj.CoreCompileInputs.cache
+C:\Git\bookstore\SanatEvi\SanatEvi.Entity\obj\Debug\net7.0\SanatEvi.Entity.dll
+C:\Git\bookstore\SanatEvi\SanatEvi.Entity\obj\Debug\net7.0\refint\SanatEvi.Entity.dll
+C:\Git\bookstore\SanatEvi\SanatEvi.Entity\obj\Debug\net7.0\SanatEvi.Entity.pdb
+C:\Git\bookstore\SanatEvi\SanatEvi.Entity\obj\Debug\net7.0\ref\SanatEvi.Entity.dll
