@@ -13,6 +13,5 @@ namespace SanatEvi.Entity.Abstract
         public virtual DateTime ModifiedDate { get; set; } = DateTime.Now;
         public virtual bool IsActive { get; set; } = true;
         public virtual bool IsDeleted { get; set; } = false;
-
     }
 }

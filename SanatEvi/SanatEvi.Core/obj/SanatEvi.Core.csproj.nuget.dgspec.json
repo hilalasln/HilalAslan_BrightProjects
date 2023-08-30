@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj": {}
+    "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj": {}
   },
   "projects": {
-    "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj": {
+    "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj",
+        "projectUniqueName": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj",
         "projectName": "SanatEvi.Core",
-        "projectPath": "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj",
-        "packagesPath": "C:\\Users\\SABAH\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Core\\obj\\",
+        "projectPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj",
+        "packagesPath": "C:\\Users\\hilal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SABAH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hilal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -43,6 +43,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -59,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

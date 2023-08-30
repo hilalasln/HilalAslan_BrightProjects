@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Data\\SanatEvi.Data.csproj": {}
+    "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Data\\SanatEvi.Data.csproj": {}
   },
   "projects": {
-    "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Data\\SanatEvi.Data.csproj": {
+    "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Data\\SanatEvi.Data.csproj",
-        "projectName": "SanatEvi.Data",
-        "projectPath": "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Data\\SanatEvi.Data.csproj",
-        "packagesPath": "C:\\Users\\SABAH\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Data\\obj\\",
+        "projectUniqueName": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj",
+        "projectName": "SanatEvi.Core",
+        "projectPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj",
+        "packagesPath": "C:\\Users\\hilal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SABAH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hilal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -31,11 +31,7 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {
-              "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj": {
-                "projectPath": "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -48,15 +44,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
+            "Microsoft.AspNetCore.Http.Features": {
               "target": "Package",
-              "version": "[7.0.7, )"
-            },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
-              "target": "Package",
-              "version": "[7.0.7, )"
+              "version": "[5.0.17, )"
             }
           },
           "imports": [
@@ -75,24 +65,106 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj": {
+    "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Data\\SanatEvi.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj",
-        "projectName": "SanatEvi.Entity",
-        "projectPath": "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj",
-        "packagesPath": "C:\\Users\\SABAH\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Entity\\obj\\",
+        "projectUniqueName": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Data\\SanatEvi.Data.csproj",
+        "projectName": "SanatEvi.Data",
+        "projectPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Data\\SanatEvi.Data.csproj",
+        "packagesPath": "C:\\Users\\hilal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SABAH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hilal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj": {
+                "projectPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj"
+              },
+              "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj": {
+                "projectPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj",
+        "projectName": "SanatEvi.Entity",
+        "projectPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj",
+        "packagesPath": "C:\\Users\\hilal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hilal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -121,7 +193,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.7, )"
+              "version": "[7.0.9, )"
             }
           },
           "imports": [
@@ -140,7 +212,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

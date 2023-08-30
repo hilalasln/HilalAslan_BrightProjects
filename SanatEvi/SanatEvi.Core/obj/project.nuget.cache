@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "t66Z2XwXxZYNLGRK35zMVjtBlQJhsEewEzcvi/BhLeL4WFXaKdi82ZvGRXRCv8Kn6pdHvNuKxCvEzAAp53iHLQ==",
+  "dgSpecHash": "xWwqiZ7xIbb1HQ6msklbeunExxHP388iAD/jVAsOS9qiQXxckf/JI3mg2OZj7Fat4uTcuqf8oDS4WDS9yvGVKA==",
   "success": true,
-  "projectFilePath": "C:\\Git\\bookstore\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hilal\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\hilal\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\hilal\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

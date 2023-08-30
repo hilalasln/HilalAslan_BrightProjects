@@ -3,16 +3,11 @@
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
+    <Nullable>disable</Nullable>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Folder Include="Abstract\" />
-    <Folder Include="Concrete\" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\SanatEvi.Data\SanatEvi.Data.csproj" />
-  </ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\SanatEvi.Core\SanatEvi.Core.csproj" />
+		<ProjectReference Include="..\SanatEvi.Data\SanatEvi.Data.csproj" />
+	</ItemGroup>
 
 </Project>
