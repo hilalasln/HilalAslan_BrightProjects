@@ -128,11 +128,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj",
+      "projectUniqueName": "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj",
       "projectName": "SanatEvi.Core",
-      "projectPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj",
+      "projectPath": "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj",
       "packagesPath": "C:\\Users\\hilal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Core\\obj\\",
+      "outputPath": "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

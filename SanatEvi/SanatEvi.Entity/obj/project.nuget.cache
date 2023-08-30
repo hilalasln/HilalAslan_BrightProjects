@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LT9pK8aQN7S85k1LUo3zOWSCGJ6YrCsZUyysdmngW96LqZoQFR2+EZ7LE2Kgx/1eVSHYOJW1AUgpLsG3VPaQ6w==",
+  "dgSpecHash": "S/+ODWvZWttQgl8WHidp4AIXbsT2uMcmd0u5p5yQsjYdh5bJ10GLUbZ/F0QCq6KE/3W0FlhC14gkdNb+o7wbwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj",
+  "projectFilePath": "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hilal\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.9\\microsoft.aspnetcore.cryptography.internal.7.0.9.nupkg.sha512",
     "C:\\Users\\hilal\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.9\\microsoft.aspnetcore.cryptography.keyderivation.7.0.9.nupkg.sha512",

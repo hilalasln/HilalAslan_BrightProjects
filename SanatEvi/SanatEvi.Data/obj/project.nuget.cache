@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uFGdkYc8f2brxGLEZY+QEf/Oje+Ulz4nc1QcY8gu3cXLcKY1ntdUwOYM6p+guko3qqnQHJ/b1cxleq/BIrfrQA==",
+  "dgSpecHash": "jVK5KaM3CWFJtuL6Xpd+fUHr1UDdjKXSnnPHA7yZ290Hvtlqb+ewL5T8e4qDx5FrnePo2AzhohCRO4eZSjV1Zw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Data\\SanatEvi.Data.csproj",
+  "projectFilePath": "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Data\\SanatEvi.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hilal\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\hilal\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.9\\microsoft.aspnetcore.cryptography.internal.7.0.9.nupkg.sha512",

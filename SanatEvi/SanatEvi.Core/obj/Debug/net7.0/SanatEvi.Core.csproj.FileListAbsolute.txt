@@ -10,3 +10,15 @@ C:\Users\hilal\Desktop\SanatEvi\SanatEvi.Core\obj\Debug\net7.0\SanatEvi.Core.dll
 C:\Users\hilal\Desktop\SanatEvi\SanatEvi.Core\obj\Debug\net7.0\refint\SanatEvi.Core.dll
 C:\Users\hilal\Desktop\SanatEvi\SanatEvi.Core\obj\Debug\net7.0\SanatEvi.Core.pdb
 C:\Users\hilal\Desktop\SanatEvi\SanatEvi.Core\obj\Debug\net7.0\ref\SanatEvi.Core.dll
+C:\Users\hilal\Desktop\HilalAslan_BrightProjects\SanatEvi\SanatEvi.Core\bin\Debug\net7.0\SanatEvi.Core.deps.json
+C:\Users\hilal\Desktop\HilalAslan_BrightProjects\SanatEvi\SanatEvi.Core\bin\Debug\net7.0\SanatEvi.Core.dll
+C:\Users\hilal\Desktop\HilalAslan_BrightProjects\SanatEvi\SanatEvi.Core\bin\Debug\net7.0\SanatEvi.Core.pdb
+C:\Users\hilal\Desktop\HilalAslan_BrightProjects\SanatEvi\SanatEvi.Core\obj\Debug\net7.0\SanatEvi.Core.csproj.AssemblyReference.cache
+C:\Users\hilal\Desktop\HilalAslan_BrightProjects\SanatEvi\SanatEvi.Core\obj\Debug\net7.0\SanatEvi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilal\Desktop\HilalAslan_BrightProjects\SanatEvi\SanatEvi.Core\obj\Debug\net7.0\SanatEvi.Core.AssemblyInfoInputs.cache
+C:\Users\hilal\Desktop\HilalAslan_BrightProjects\SanatEvi\SanatEvi.Core\obj\Debug\net7.0\SanatEvi.Core.AssemblyInfo.cs
+C:\Users\hilal\Desktop\HilalAslan_BrightProjects\SanatEvi\SanatEvi.Core\obj\Debug\net7.0\SanatEvi.Core.csproj.CoreCompileInputs.cache
+C:\Users\hilal\Desktop\HilalAslan_BrightProjects\SanatEvi\SanatEvi.Core\obj\Debug\net7.0\SanatEvi.Core.dll
+C:\Users\hilal\Desktop\HilalAslan_BrightProjects\SanatEvi\SanatEvi.Core\obj\Debug\net7.0\refint\SanatEvi.Core.dll
+C:\Users\hilal\Desktop\HilalAslan_BrightProjects\SanatEvi\SanatEvi.Core\obj\Debug\net7.0\SanatEvi.Core.pdb
+C:\Users\hilal\Desktop\HilalAslan_BrightProjects\SanatEvi\SanatEvi.Core\obj\Debug\net7.0\ref\SanatEvi.Core.dll

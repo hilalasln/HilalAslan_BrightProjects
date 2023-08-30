@@ -9,97 +9,97 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SanatEvi.MVC
 build_property.RootNamespace = SanatEvi.MVC
-build_property.ProjectDir = C:\Users\hilal\Desktop\SanatEvi\SanatEvi.MVC\
+build_property.ProjectDir = C:\Users\hilal\Desktop\HilalAslan_BrightProjects\SanatEvi\SanatEvi.MVC\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\hilal\Desktop\SanatEvi\SanatEvi.MVC
+build_property.MSBuildProjectDirectory = C:\Users\hilal\Desktop\HilalAslan_BrightProjects\SanatEvi\SanatEvi.MVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/hilal/Desktop/SanatEvi/SanatEvi.MVC/Views/Account/AccessDenied.cshtml]
+[C:/Users/hilal/Desktop/HilalAslan_BrightProjects/SanatEvi/SanatEvi.MVC/Views/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hilal/Desktop/SanatEvi/SanatEvi.MVC/Views/Account/ConfirmEmail.cshtml]
+[C:/Users/hilal/Desktop/HilalAslan_BrightProjects/SanatEvi/SanatEvi.MVC/Views/Account/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hilal/Desktop/SanatEvi/SanatEvi.MVC/Views/Account/ForgotPassword.cshtml]
+[C:/Users/hilal/Desktop/HilalAslan_BrightProjects/SanatEvi/SanatEvi.MVC/Views/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hilal/Desktop/SanatEvi/SanatEvi.MVC/Views/Account/Login.cshtml]
+[C:/Users/hilal/Desktop/HilalAslan_BrightProjects/SanatEvi/SanatEvi.MVC/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hilal/Desktop/SanatEvi/SanatEvi.MVC/Views/Account/MyAccount.cshtml]
+[C:/Users/hilal/Desktop/HilalAslan_BrightProjects/SanatEvi/SanatEvi.MVC/Views/Account/MyAccount.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxNeUFjY291bnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hilal/Desktop/SanatEvi/SanatEvi.MVC/Views/Account/Register.cshtml]
+[C:/Users/hilal/Desktop/HilalAslan_BrightProjects/SanatEvi/SanatEvi.MVC/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hilal/Desktop/SanatEvi/SanatEvi.MVC/Views/Account/ResetPassword.cshtml]
+[C:/Users/hilal/Desktop/HilalAslan_BrightProjects/SanatEvi/SanatEvi.MVC/Views/Account/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hilal/Desktop/SanatEvi/SanatEvi.MVC/Views/Cart/Checkout.cshtml]
+[C:/Users/hilal/Desktop/HilalAslan_BrightProjects/SanatEvi/SanatEvi.MVC/Views/Cart/Checkout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDaGVja291dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hilal/Desktop/SanatEvi/SanatEvi.MVC/Views/Cart/Index.cshtml]
+[C:/Users/hilal/Desktop/HilalAslan_BrightProjects/SanatEvi/SanatEvi.MVC/Views/Cart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hilal/Desktop/SanatEvi/SanatEvi.MVC/Views/Home/Index.cshtml]
+[C:/Users/hilal/Desktop/HilalAslan_BrightProjects/SanatEvi/SanatEvi.MVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hilal/Desktop/SanatEvi/SanatEvi.MVC/Views/Home/Privacy.cshtml]
+[C:/Users/hilal/Desktop/HilalAslan_BrightProjects/SanatEvi/SanatEvi.MVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hilal/Desktop/SanatEvi/SanatEvi.MVC/Views/SanatEvi/CourseDetails.cshtml]
+[C:/Users/hilal/Desktop/HilalAslan_BrightProjects/SanatEvi/SanatEvi.MVC/Views/SanatEvi/CourseDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuYXRFdmlcQ291cnNlRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hilal/Desktop/SanatEvi/SanatEvi.MVC/Views/SanatEvi/CourseList.cshtml]
+[C:/Users/hilal/Desktop/HilalAslan_BrightProjects/SanatEvi/SanatEvi.MVC/Views/SanatEvi/CourseList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuYXRFdmlcQ291cnNlTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hilal/Desktop/SanatEvi/SanatEvi.MVC/Views/Shared/Components/Categories/Default.cshtml]
+[C:/Users/hilal/Desktop/HilalAslan_BrightProjects/SanatEvi/SanatEvi.MVC/Views/Shared/Components/Categories/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcmllc1xEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hilal/Desktop/SanatEvi/SanatEvi.MVC/Views/Shared/Components/Teachers/Default.cshtml]
+[C:/Users/hilal/Desktop/HilalAslan_BrightProjects/SanatEvi/SanatEvi.MVC/Views/Shared/Components/Teachers/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVGVhY2hlcnNcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hilal/Desktop/SanatEvi/SanatEvi.MVC/Views/Shared/Error.cshtml]
+[C:/Users/hilal/Desktop/HilalAslan_BrightProjects/SanatEvi/SanatEvi.MVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hilal/Desktop/SanatEvi/SanatEvi.MVC/Views/Shared/_CoursePartial.cshtml]
+[C:/Users/hilal/Desktop/HilalAslan_BrightProjects/SanatEvi/SanatEvi.MVC/Views/Shared/_CoursePartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db3Vyc2VQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hilal/Desktop/SanatEvi/SanatEvi.MVC/Views/Shared/_MenuPartial.cshtml]
+[C:/Users/hilal/Desktop/HilalAslan_BrightProjects/SanatEvi/SanatEvi.MVC/Views/Shared/_MenuPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW51UGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hilal/Desktop/SanatEvi/SanatEvi.MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/hilal/Desktop/HilalAslan_BrightProjects/SanatEvi/SanatEvi.MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hilal/Desktop/SanatEvi/SanatEvi.MVC/Views/_ViewImports.cshtml]
+[C:/Users/hilal/Desktop/HilalAslan_BrightProjects/SanatEvi/SanatEvi.MVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hilal/Desktop/SanatEvi/SanatEvi.MVC/Views/_ViewStart.cshtml]
+[C:/Users/hilal/Desktop/HilalAslan_BrightProjects/SanatEvi/SanatEvi.MVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hilal/Desktop/SanatEvi/SanatEvi.MVC/Views/Shared/_Layout.cshtml]
+[C:/Users/hilal/Desktop/HilalAslan_BrightProjects/SanatEvi/SanatEvi.MVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2540ohra9z

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xWwqiZ7xIbb1HQ6msklbeunExxHP388iAD/jVAsOS9qiQXxckf/JI3mg2OZj7Fat4uTcuqf8oDS4WDS9yvGVKA==",
+  "dgSpecHash": "5EjFtF0H77zWuTLybe3ZbMR6nA2nSO9Ry1XKDwUUxNaQOGD/Ctc7nHCzNMWq9VDbBlZJ4X2ZhLw6s167DAuRWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj",
+  "projectFilePath": "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hilal\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\hilal\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.MVC\\SanatEvi.MVC.csproj": {}
+    "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.MVC\\SanatEvi.MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Business\\SanatEvi.Business.csproj": {
+    "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Business\\SanatEvi.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Business\\SanatEvi.Business.csproj",
+        "projectUniqueName": "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Business\\SanatEvi.Business.csproj",
         "projectName": "SanatEvi.Business",
-        "projectPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Business\\SanatEvi.Business.csproj",
+        "projectPath": "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Business\\SanatEvi.Business.csproj",
         "packagesPath": "C:\\Users\\hilal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Business\\obj\\",
+        "outputPath": "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj": {
-                "projectPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj"
+              "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj": {
+                "projectPath": "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj"
               },
-              "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Data\\SanatEvi.Data.csproj": {
-                "projectPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Data\\SanatEvi.Data.csproj"
+              "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Data\\SanatEvi.Data.csproj": {
+                "projectPath": "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Data\\SanatEvi.Data.csproj"
               }
             }
           }
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj": {
+    "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj",
+        "projectUniqueName": "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj",
         "projectName": "SanatEvi.Core",
-        "projectPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj",
+        "projectPath": "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj",
         "packagesPath": "C:\\Users\\hilal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Core\\obj\\",
+        "outputPath": "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -135,14 +135,14 @@
         }
       }
     },
-    "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Data\\SanatEvi.Data.csproj": {
+    "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Data\\SanatEvi.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Data\\SanatEvi.Data.csproj",
+        "projectUniqueName": "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Data\\SanatEvi.Data.csproj",
         "projectName": "SanatEvi.Data",
-        "projectPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Data\\SanatEvi.Data.csproj",
+        "projectPath": "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Data\\SanatEvi.Data.csproj",
         "packagesPath": "C:\\Users\\hilal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Data\\obj\\",
+        "outputPath": "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -163,11 +163,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj": {
-                "projectPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj"
+              "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj": {
+                "projectPath": "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj"
               },
-              "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj": {
-                "projectPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj"
+              "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj": {
+                "projectPath": "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj"
               }
             }
           }
@@ -217,14 +217,14 @@
         }
       }
     },
-    "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj": {
+    "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj",
         "projectName": "SanatEvi.Entity",
-        "projectPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj",
+        "projectPath": "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Entity\\SanatEvi.Entity.csproj",
         "packagesPath": "C:\\Users\\hilal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Entity\\obj\\",
+        "outputPath": "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -282,14 +282,14 @@
         }
       }
     },
-    "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.MVC\\SanatEvi.MVC.csproj": {
+    "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.MVC\\SanatEvi.MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.MVC\\SanatEvi.MVC.csproj",
+        "projectUniqueName": "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.MVC\\SanatEvi.MVC.csproj",
         "projectName": "SanatEvi.MVC",
-        "projectPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.MVC\\SanatEvi.MVC.csproj",
+        "projectPath": "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.MVC\\SanatEvi.MVC.csproj",
         "packagesPath": "C:\\Users\\hilal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.MVC\\obj\\",
+        "outputPath": "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.MVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -311,11 +311,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Business\\SanatEvi.Business.csproj": {
-                "projectPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Business\\SanatEvi.Business.csproj"
+              "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Business\\SanatEvi.Business.csproj": {
+                "projectPath": "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Business\\SanatEvi.Business.csproj"
               },
-              "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj": {
-                "projectPath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj"
+              "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj": {
+                "projectPath": "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.Core\\SanatEvi.Core.csproj"
               }
             }
           }

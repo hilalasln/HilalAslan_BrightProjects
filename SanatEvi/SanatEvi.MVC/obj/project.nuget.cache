@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/PCcG8TGqp5NQsTdZwpBQD/OHpkzRbBeMGc3YSFj18pu7iIGWESDuCTo+nFSxO4WvpLfQ9eF6+/JbjogpOG+mw==",
+  "dgSpecHash": "PdwX8thfRPufgjg5mTtom7i55GRc4VMBTd2duLEIOMDcU0KBYvoYh3TI+S60jtAzwu/gb/0gFRz/5XhjTKHM9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hilal\\Desktop\\SanatEvi\\SanatEvi.MVC\\SanatEvi.MVC.csproj",
+  "projectFilePath": "C:\\Users\\hilal\\Desktop\\HilalAslan_BrightProjects\\SanatEvi\\SanatEvi.MVC\\SanatEvi.MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hilal\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\aspnetcorehero.toastnotification.1.1.0.nupkg.sha512",
     "C:\\Users\\hilal\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
